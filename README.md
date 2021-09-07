@@ -44,7 +44,12 @@ Uma _API Rest_ integrada com o sdk do <strong>Google Cloud Vision</strong>, onde
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
+- [Javacript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/)
+- [Nodemon](https://nodemon.io/)
+- [ESLint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
 
 <a id="rotas"></a>
 
@@ -93,10 +98,16 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 1. Faça um clone :
 
 ```sh
-  $ git clone https://github.com/VictorGabrielMS/Rest-API-GoogleCloud-Vision.git
+  $ git clone https://github.com/VictorGabrielMS/api-integration-google-cloudvision.git
 ```
 
-2. Executando as aplicações:
+2. Vá ao diretório
+
+```sh
+  $ cd api-integration-google-cloudvision
+```
+
+3. Executando as aplicações:
 
 ```sh
   $ npm install
