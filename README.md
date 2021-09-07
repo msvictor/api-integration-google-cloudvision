@@ -122,3 +122,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - Crie uma _branch_ com a sua feature: `git checkout -b my-feature`
 - _Commit_ suas mudanças: `git commit -m 'feat: My new feature'`
 - Faça um _push_ da sua branch: `git push origin my-feature`
+
+
+## :memo: License
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
