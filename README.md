@@ -7,7 +7,7 @@
   <a href="https://cloud.google.com/">
     <img alt="Integration with" src="https://img.shields.io/badge/integration%20with-Google-%23f1e05a">
   </a>
-   <a href="https://github.com/VictorGabrielMS">
+   <a href="https://github.com/msvictor">
     <img alt="Code by Victor Gabriel" src="https://img.shields.io/badge/code%20by-Victor Gabriel-%23E02041">
   </a>
 </p>
@@ -98,7 +98,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 1. Faça um clone :
 
 ```sh
-  $ git clone https://github.com/VictorGabrielMS/api-integration-google-cloudvision.git
+  $ git clone https://github.com/msvictor/api-integration-google-cloudvision.git
 ```
 
 2. Vá ao diretório
